@@ -1,0 +1,22 @@
+img {
+    width: 100%;
+}
+
+#main-image {
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+    height: auto;
+    margin-top: 50px;
+}
+
+
+#image-list {
+    display: none;
+    list-style-type: none;
+}
+
+#image-list li {
+    width: 70%;
+}
+
