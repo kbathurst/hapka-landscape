@@ -372,8 +372,7 @@ and (max-device-width : 568px) {
     }
 
     h2, h3 {
-        font-size: 1.8em;
-        color: red;
+        font-size: 1.5em;
     }
 
     .flex-container {
@@ -418,10 +417,6 @@ and (max-device-width : 568px) {
 
     .footer-form {
         margin-top: 30px;
-    }
-
-    #email-headline {
-        margin-top: 20px;
     }
 
     #renovation-text, #employment-text {
