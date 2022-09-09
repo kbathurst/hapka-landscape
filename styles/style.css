@@ -337,6 +337,10 @@ textarea {
     text-align: center;
 }
 
+.quote-button {
+    margin-left: 15px;
+}
+
 span {
     color: red;
     margin-left: 5px;
