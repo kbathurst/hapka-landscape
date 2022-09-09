@@ -341,6 +341,10 @@ textarea {
     margin-left: 15px;
 }
 
+.formheading {
+    margin-top: 10px;
+}
+
 span {
     color: red;
     margin-left: 5px;
@@ -464,10 +468,6 @@ and (max-device-width : 568px) {
         width: 100%;
         padding: 8px 8px;
         font-family: Roboto, sans-serif;
-    }
-
-    .formheading {
-        margin-top: 10px;
     }
 
     button {
