@@ -424,6 +424,7 @@ and (max-device-width : 568px) {
 
     .footer-form {
         margin-top: 30px;
+        margin-left: 30px;
     }
 
     #renovation-text, #employment-text {
@@ -440,12 +441,17 @@ and (max-device-width : 568px) {
         padding: 20px 20px;
     }
 
-    .footer-form {
-        margin-left: 30px;
-    }
-
     textarea {
         margin-left: 2px;
+    }
+
+    .contact-info p {
+        line-height: auto;
+    }
+    
+    #contact-page hr {
+        margin-top: 20px;
+        margin-bottom: 20px;
     }
 }
 
