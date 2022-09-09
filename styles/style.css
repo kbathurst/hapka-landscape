@@ -446,7 +446,7 @@ and (max-device-width : 568px) {
     }
 
     .contact-info p {
-        line-height: auto;
+        line-height: 10px;
     }
     
     #contact-page hr {
