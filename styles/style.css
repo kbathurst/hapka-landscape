@@ -312,7 +312,7 @@ textarea {
 
 #get-quote-container {
     display: flex;
-    width: 65%;
+    width: 80%;
     align-content: center;
     margin: 0 auto;
     margin-bottom: 60px;
@@ -322,11 +322,11 @@ textarea {
 .quote-input {
     margin-bottom: 5px;
     padding: 8px 8px;
-    width: 50%;
+    width: 80%;
 }
 
 #quote-message {
-    width: 50%;
+    width: 80%;
     padding: 8px 8px;
     font-family: Roboto, sans-serif;
 }
